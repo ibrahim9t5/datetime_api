@@ -1,7 +1,6 @@
 # datetime_api
 this is a dockerized python api that gets current data/time
 
-```markdown
 # PythonDatetime API (Dockerized)
 
 This is a simple Python API that returns the current date and time. It's containerized using Docker for easy deployment.
@@ -15,8 +14,6 @@ This is a simple Python API that returns the current date and time. It's contain
 ### 1. Building the Docker Image
 
 Navigate to the project directory containing the `Dockerfile` and run the following command to build the Docker image:
-
-```
 
 ```bash
 docker build -t datetime_api .
