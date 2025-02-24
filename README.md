@@ -16,6 +16,8 @@ This is a simple Python API that returns the current date and time. It's contain
 
 Navigate to the project directory containing the `Dockerfile` and run the following command to build the Docker image:
 
+```
+
 ```bash
 docker build -t datetime_api .
 ```
